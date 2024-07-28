@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kandpal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fexcited-share-my-second-linkedin-post-coding-community-disha-gupta&psig=AOvVaw0S54It6O-CeNvzonGhCQoa&ust=1722232921519000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjWieGHyYcDFQAAAAAdAAAAABAE>
+<img align="right" alt="coding" width="400" src=https://github.com/Gaurav-creater317/Gaurav-creater317/blob/main/Gaurav.gif>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkandpal070896&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkandpal070896" /> </p>
